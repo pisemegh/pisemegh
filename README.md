@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 
-3rd-year Computer Science Engineering student (IoT & Blockchain specialization) at **Dayananda Sagar College of Engineering, Bangalore**.
+4th-year Computer Science Engineering student (IoT & Blockchain specialization) at **Dayananda Sagar College of Engineering, Bangalore**.
 
 Currently focused on **Artificial Intelligence and Machine Learning**. I'm that person who's so invested in AI that it's quietly involved in most of my day-to-day decisions — this README included.
 
